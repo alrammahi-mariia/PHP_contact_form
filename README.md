@@ -9,3 +9,6 @@ To see the form deployed, you can visit https://team-remote-contactform.000webho
 ## License
 
 This project is licensed under the MIT License
+
+## 
+This project is created as a part of the PHP course at Business College Helsinki
