@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="container">
-      <form action="mailform.php" method="POST" class="form">
+      <form action="mailform.php" method="post" class="form">
         <div class="form-group">
           <label for="name" class="form-label">Your Name</label>
           <input
@@ -59,7 +59,7 @@
           ></textarea>
         </div>
         <div>
-          <input type="submit" class="btn" />
+          <input type="submit" name = "submit" class="btn" />
         </div>
       </form>
     </div>
